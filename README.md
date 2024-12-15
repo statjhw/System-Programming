@@ -5,6 +5,14 @@
 
 ---
 
+## **프로젝트 출력**
+
+아래는 프로그램 실행 결과를 시각적으로 보여주는 예제입니다.
+
+![Output Example](./output.png)
+
+---
+
 ## **기능**
 
 - **CSV 파일 정보 출력 (`show_csv_info`)**  
@@ -56,7 +64,6 @@ make clean
 
 동적 라이브러리 테스트
 ```bash
-export LD_LIBRARY_PATH=.
 ./test_runtime
 ```
 
