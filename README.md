@@ -56,7 +56,6 @@ make clean
 
 동적 라이브러리 테스트
 ```bash
-export LD_LIBRARY_PATH=.
 ./test_runtime
 ```
 
